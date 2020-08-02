@@ -1,4 +1,6 @@
-### Hi 👋, I'm [hyosunghan](https://hyosunghan.github.io)!
+### Hi 👋, I'm hyosunghan!
+[MyBlog](https://hyosunghan.github.io)
+[HomePage](https://hyosunghan.github.io/index/)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=hyosunghan&show_icons=true)
 
