@@ -1,6 +1,8 @@
 ### Hi 👋, I'm hyosunghan!
-[MyBlog](https://hyosunghan.github.io)
-[HomePage](https://hyosunghan.github.io/index/)
+Welcome visit
+[PersonalBlog](https://hyosunghan.github.io)
+or
+[PublicPage](https://hyosunghan.github.io/index/)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=hyosunghan&show_icons=true)
 
