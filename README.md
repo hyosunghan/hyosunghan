@@ -5,6 +5,8 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=hyosunghan&show_icons=true)
 
+<a title="Hits" target="_blank" href="https://github.com/hyosunghan/hyosunghan"><img src="https://hits.b3log.org/hyosunghan/hyosunghan.svg"></a>
+
 <!--
 **hyosunghan/hyosunghan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
