@@ -1,7 +1,7 @@
 ### Hi 👋, I'm hyosunghan, thank for your visiting!
 
-+ Personal Blog: [https://hyosunghan.github.io/blog](https://hyosunghan.github.io/blog)
 + Public Page: [https://hyosunghan.github.io](https://hyosunghan.github.io)
++ Personal Blog: [https://hyosunghan.github.io/blog](https://hyosunghan.github.io/blog)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=hyosunghan&show_icons=true)
 
