@@ -2,7 +2,7 @@
 
 + Personal Blog: [https://hyosunghan.github.io/blog](https://hyosunghan.github.io/blog)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=hyosunghan&show_icons=true)  ![](https://github-readme-stats.vercel.app/api/top-langs?username=hyosunghan&show_icons=true&count_private=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=hyosunghan&show_icons=true)  ![](https://github-readme-stats.vercel.app/api/top-langs?username=hyosunghan&&hide_progress=true)
 
 <a title="Hits" target="_blank" href="https://github.com/hyosunghan/hyosunghan"><img src="https://hits.b3log.org/hyosunghan/hyosunghan.svg"></a>
 
