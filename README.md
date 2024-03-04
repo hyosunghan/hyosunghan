@@ -4,7 +4,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=hyosunghan&show_icons=true)
 
-![这里写你的昵称's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=hyosunghan&show_icons=true&count_private=true&theme=gotham)
+![这里写你的昵称's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=hyosunghan&show_icons=true&count_private=true)
 
 <a title="Hits" target="_blank" href="https://github.com/hyosunghan/hyosunghan"><img src="https://hits.b3log.org/hyosunghan/hyosunghan.svg"></a>
 
